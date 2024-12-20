@@ -1,0 +1,24 @@
+<svg width="400" height="600" viewBox="0 0 400 600" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .dress {
+            fill: none;
+            stroke: #E91E63;
+            stroke-width: 2;
+        }
+    </style>
+    <path class="dress" d="M200,50 
+        C150,50 100,100 100,150
+        L80,500 
+        C80,550 150,580 200,580
+        C250,580 320,550 320,500
+        L300,150
+        C300,100 250,50 200,50
+        Z"/>
+    <path class="dress" d="M160,80
+        C160,100 180,120 200,120
+        C220,120 240,100 240,80"/>
+    <path class="dress" d="M100,250
+        L300,250"/>
+    <path class="dress" d="M90,350
+        L310,350"/>
+</svg>

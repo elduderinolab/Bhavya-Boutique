@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="0" height="0" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <!-- Designer Blouse Icon -->
+    <symbol id="icon-blouse" viewBox="0 0 24 24">
+        <path d="M8 3H16L18 8L16 12V20H8V12L6 8L8 3Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M10 6H14M12 6V20" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <path d="M8 15H16M8 18H16" 
+              stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Chudidhar Icon -->
+    <symbol id="icon-chudidhar" viewBox="0 0 24 24">
+        <path d="M8 2H16L18 8V22H6V8L8 2Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M10 8L14 8M10 12L14 12M10 16L14 16" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <path d="M12 2V22" 
+              stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Lehenga Icon -->
+    <symbol id="icon-lehenga" viewBox="0 0 24 24">
+        <path d="M4 6C4 6 12 8 20 6L22 12L20 18C20 18 12 16 4 18L2 12L4 6Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M8 8C8 8 12 9 16 8M8 12C8 12 12 13 16 12M8 16C8 16 12 17 16 16" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <circle cx="12" cy="12" r="2" 
+                stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Baby Frock Icon -->
+    <symbol id="icon-frock" viewBox="0 0 24 24">
+        <path d="M8 4H16L18 8L16 12V20H8V12L6 8L8 4Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M10 8H14M12 8V20" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <path d="M8 16C8 16 12 18 16 16" 
+              stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Maggam Work Icon -->
+    <symbol id="icon-maggam" viewBox="0 0 24 24">
+        <path d="M12 2L14 6L18 8L14 10L12 14L10 10L6 8L10 6L12 2Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M12 16L13 18L15 19L13 20L12 22L11 20L9 19L11 18L12 16Z" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <circle cx="12" cy="8" r="2" 
+                stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Computer Embroidery Icon -->
+    <symbol id="icon-embroidery" viewBox="0 0 24 24">
+        <rect x="4" y="4" width="16" height="16" rx="2" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M8 8L16 16M16 8L8 16" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <circle cx="12" cy="12" r="4" 
+                stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Saree Icon -->
+    <symbol id="icon-saree" viewBox="0 0 24 24">
+        <path d="M3 6C3 6 12 8 21 6V18C12 16 3 18 3 18V6Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M7 8C7 8 12 9 17 8M7 12C7 12 12 13 17 12M7 16C7 16 12 17 17 16" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <path d="M12 6V18" 
+              stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+
+    <!-- Fabric Icon -->
+    <symbol id="icon-fabric" viewBox="0 0 24 24">
+        <path d="M4 4H20V20H4V4Z" 
+              stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M4 8H20M4 12H20M4 16H20" 
+              stroke="currentColor" stroke-width="1" opacity="0.6"/>
+        <path d="M8 4V20M12 4V20M16 4V20" 
+              stroke="currentColor" stroke-width="1" opacity="0.4"/>
+    </symbol>
+</svg>
