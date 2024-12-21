@@ -538,6 +538,20 @@ nav a:hover:after {
     font-weight: 200;
 }
 
+.whatsapp-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.whatsapp-link:hover {
+    color: var(--text-light);
+}
+
 /* Footer */
 footer {
     padding: calc(var(--spacing-unit) * 4);
